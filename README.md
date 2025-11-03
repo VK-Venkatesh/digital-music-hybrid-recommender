@@ -22,7 +22,6 @@ Here’s a **professional GitHub repository structure, name, and README.md** des
 
 ---
 
-````markdown
 # 🎵 Digital Music Hybrid Recommender System
 
 [![Streamlit App](https://img.shields.io/badge/Launch-App-brightgreen?logo=streamlit)](https://share.streamlit.io)
@@ -80,27 +79,13 @@ This model uses the **Amazon Reviews 2023 — Digital Music** dataset from [McAu
 
 ---
 
-## 🚀 Run Locally
-
-### 1️⃣ Clone this repository
-```bash
-git clone https://github.com/<your-username>/digital-music-hybrid-recommender.git
-cd digital-music-hybrid-recommender
-````
-
-### 2️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Launch the app
+### Launch the app
 
 ```bash
 streamlit run Time_Series_Model.py
 ```
 
-### 4️⃣ Upload Data
+### Upload Data
 
 You can:
 
@@ -136,7 +121,7 @@ If you use this dataset or pipeline, please cite:
 
 > He, Ruining, McAuley, Julian.
 > *Amazon Product Data 2023* (McAuley Lab, UCSD).
-> [📑 Paper](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
+> [📑 Paper]([https://cseweb.ucsd.edu/~jmcauley/datasets.html](https://amazon-reviews-2023.github.io/))
 
 ---
 
@@ -177,9 +162,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### 👨‍💻 Author
 
-**Your Name**
+**Venkatesh**
 Data Science | Machine Learning | Recommender Systems
-📧 [youremail@example.com](mailto:youremail@exampl.com)
-🌐 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+📧 [venkateshvarada56@gmail.com](mailto:venkateshvarada56@gmail.com)
+🌐 [LinkedIn Profile](www.linkedin.com/in/venkatesh-ds25)
 
 ```
