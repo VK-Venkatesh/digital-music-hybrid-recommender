@@ -18,8 +18,6 @@ Built for reproducible RecSys benchmarking, it features:
   Excellent — I’ve reviewed your uploaded **`Time_Series_Model.py`** script.
 It’s a **Streamlit-based hybrid recommender system** (Content-based + Collaborative + Popularity + Hybrid blend) built for the **Amazon Digital Music dataset (2023)** from McAuley Lab.
 
-Here’s a **professional GitHub repository structure, name, and README.md** description for your project 👇
-
 ---
 
 # 🎵 Digital Music Hybrid Recommender System
