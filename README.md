@@ -1,4 +1,4 @@
-# digital-music-hybrid-recommender
+# 🎵 digital-music-hybrid-recommender
 This project implements a hybrid recommender system trained on the Amazon Reviews 2023 Digital Music dataset by McAuley Lab. It integrates content-based (TF-IDF + cosine), collaborative (item-based + SVD), and popularity-based (Bayesian weighted) recommendation techniques to produce personalized digital music recommendations.
 
 The system provides an interactive Streamlit web interface that allows users to upload .jsonl review and metadata files, explore top-rated songs or albums, and adjust model weights dynamically to balance content, collaborative, and popularity signals.
