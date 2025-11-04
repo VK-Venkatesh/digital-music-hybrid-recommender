@@ -125,7 +125,7 @@ If you use this dataset or pipeline, please cite:
 
 ## 📸 Demo Screenshot
 
-![Streamlit Demo](assets/demo_screenshot.png)
+![Streamlit Demo](assets/Screenshot%202025-11-04%20151318.png)
 
 ---
 
